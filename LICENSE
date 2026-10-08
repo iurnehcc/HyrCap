@@ -1,3 +1,4 @@
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -199,3 +200,121 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+===============================================================================
+HyrCap licensing and third-party notices
+===============================================================================
+
+The code in this repository is licensed under the Apache License, Version 2.0,
+unless otherwise noted. The following notices are retained from upstream
+licenses and source headers and apply to their respective contributions.
+These notices do not modify the license terms above or imply endorsement
+of HyrCap by the upstream authors.
+
+Copyright 2022 IDEA
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+DAB-DETR(https://github.com/IDEA-Research/DAB-DETR)
+
+Copyright 2022 IDEA
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+Conditional DETR(https://github.com/Atten4Vis/ConditionalDETR)
+
+Copyright 2021 Microsoft.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+Deformable DETR(https://github.com/fundamentalvision/Deformable-DETR)
+
+Copyright 2020 SenseTime
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+DETR(https://github.com/facebookresearch/detr)
+
+Copyright 2020 - present, Facebook, Inc
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+Additional notices retained from upstream source headers
+------------------------------------------------------
+
+Temporal transformer components:
+Modified from TE-TAD.
+Copyright (c) 2024. Ho-Joong Kim.
+
+Temporal detection, attention, position encoding, and segment utilities:
+Modified from TadTR: End-to-end Temporal Action Detection with Transformer.
+Copyright (c) 2021. Xiaolong Liu.
+
+Temporal cropping and training data pipeline:
+Temporal cropping follows the retained TadTR/ActionFormer data pipeline.
+Copyright (c) 2021-2022 Xiaolong Liu.
+
+Transformer utilities:
+Copyright (c) 2022 IDEA. All Rights Reserved.
+
+Deformable attention components:
+Copyright (c) 2020 SenseTime. All Rights Reserved.
+Modified from DCN (https://github.com/msracver/Deformable-ConvNets).
+Copyright (c) 2018 Microsoft.
+Modified from
+https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch/tree/pytorch_1.0.0
+
+DETR-derived transformer and utility components:
+Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
